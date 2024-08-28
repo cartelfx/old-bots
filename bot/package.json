@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@google-cloud/vision": "^4.3.2",
+    "canvas": "^2.11.2",
+    "chalk": "^2.4.1",
+    "child_process": "^1.0.2",
+    "discord.js": "^14.15.3",
+    "discord.js-selfbot-v13": "^2.9.4",
+    "mongoose": "^6.2.1",
+    "path": "^0.12.7"
+  }
+}
