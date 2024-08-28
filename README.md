@@ -4,6 +4,10 @@ yeni yazdığım public botun eski ve çoğu sistemin oturtulmuş halidir bi nev
 
 web site hakkında ise php dilindedir ve onunda çoğu eksiktir sadece setup kurulumu, emoji ayarları, kanal ayarları tamamlıdır. Admin ayarları hepsi tamamlıdır, kullanıcı yönetimi, ban yönetimi, bildirim yönetimi, giriş kayıtları v.b ve site çok korunaklı ve sıkıntısızdır tüm veritabanı kayıtları şifrelidir.
 
+yardımları için kardeşim acere teşekkür ederim <3333333
+
+![img](https://lanyard-profile-readme.vercel.app/api/340047062068494337?theme=dark&bg=1c1c1c&animated=yes&hideDiscrim=false&borderRadius=30px)
+
 # web site görselleri 
 ![img](https://i.hizliresim.com/d47lj9b.png)
 ![img](https://i.hizliresim.com/c6jpdep.png)
